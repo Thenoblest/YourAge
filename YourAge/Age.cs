@@ -29,7 +29,7 @@ namespace YourAge
                 Console.WriteLine("Your: " + d);
 
                 int totalDayNormal = (d * 365);
-                Console.WriteLine("You have lived " + totalDayNormal + " days");
+                Console.WriteLine("You have lived " + "{0}" + " days", totalDayNormal);
 
                 int totalHoursNormal = ((d * 365) * 24);
                 Console.WriteLine("You have lived " + totalHoursNormal + " hours");
