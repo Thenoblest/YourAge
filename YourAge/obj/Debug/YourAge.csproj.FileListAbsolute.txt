@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\YourAge\YourAge\bin\Debug\YourAge.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\YourAge\YourAge\bin\Debug\YourAge.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\YourAge\YourAge\bin\Debug\YourAge.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\YourAge\YourAge\obj\Debug\YourAge.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\YourAge\YourAge\obj\Debug\YourAge.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\YourAge\YourAge\obj\Debug\YourAge.csprojResolveAssemblyReference.cache
