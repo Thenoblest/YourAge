@@ -14,7 +14,7 @@ namespace YourAge
             DateTime newDataTime = DateTime.Now;
 
             Console.WriteLine("So, today is " + newDataTime);
-            Console.WriteLine("Enter your year of birth:");
+            Console.Write("Enter your year of birth: ");
             int b = Convert.ToInt16(Console.ReadLine());
 
             //For the future if there is no available date on the PC.
@@ -32,10 +32,10 @@ namespace YourAge
                 Console.WriteLine("You have lived " + "{0}" + " days", totalDayNormal);
 
                 int totalHoursNormal = ((d * 365) * 24);
-                Console.WriteLine("You have lived " + totalHoursNormal + " hours");
+                Console.WriteLine("You have lived " + "{0}" + " hours", totalHoursNormal);
 
                 int totalMinutesNormal = (((d * 365) * 24) * 60);
-                Console.WriteLine("You have lived " + totalMinutesNormal + " minutes");
+                Console.WriteLine("You have lived " + "{0}" + " minutes", totalMinutesNormal);
             }
             else
             {
