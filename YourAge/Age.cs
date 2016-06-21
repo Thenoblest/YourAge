@@ -48,13 +48,13 @@ namespace YourAge
                     Console.WriteLine("Your: " + f);
 
                     int totalDayBad = (f * 365);
-                    Console.WriteLine("You have lived " + totalDayBad + " days");
+                    Console.WriteLine("You have lived " + "{0}" + " days", totalDayBad);
 
                     int totalHoursBad = ((f * 365) * 24);
-                    Console.WriteLine("You have lived " + totalHoursBad + " hours");
+                    Console.WriteLine("You have lived " + "{0}" + " hours", totalHoursBad);
 
                     int totalMinutesBad = (((f * 365) * 24) * 60);
-                    Console.WriteLine("You have lived " + totalMinutesBad + " minutes");
+                    Console.WriteLine("You have lived " + "{0}" + " minutes", totalMinutesBad);
                 }
                 else
 
