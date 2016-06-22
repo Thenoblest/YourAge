@@ -35,7 +35,7 @@ namespace YourAge
             {
                 Console.WriteLine("Did you born before Jesus?");
                 Console.WriteLine("Please enter a real your year of birth:");
-                int e = Convert.ToInt32(Console.ReadLine());
+                int e = Convert.ToInt16(Console.ReadLine());
                 int f = c - e;
                 if (e > 1)
                 {
