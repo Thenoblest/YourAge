@@ -4,7 +4,7 @@ namespace YourAge
 {
     internal class CountAge
     {
-        public static void main(string[] args)
+        public static void main()
         {
             const int A = 1;
             Console.Write("Enter your year of birth: ");
